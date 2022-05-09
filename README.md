@@ -1,1 +1,3 @@
-# web-assembly-example
+# Web Assembly Example
+
+### Example using Blazor and C#
