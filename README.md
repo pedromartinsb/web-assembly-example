@@ -1,3 +1,4 @@
-# Web Assembly Example
-
-### Example using Blazor and C#
+# Instructions
+```
+dotnet run
+```
